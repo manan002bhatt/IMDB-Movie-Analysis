@@ -268,5 +268,3 @@ Based on the full analysis, here are the key data-driven recommendations:
 - **Streaming era analysis** — how post-2018 streaming affected theatrical ROI
 
 ---
-
-*Made with ❤️ for Academic Submission | Data Science Project*
